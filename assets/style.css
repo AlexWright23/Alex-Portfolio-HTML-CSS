@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.nav{
+  margin: 10px;
+  padding: 10px;
+}
+
+img {
+  width: 400px;
+  border-radius: 400px;
+  
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(207, 207, 207);
+}
+
+.about-me {
+  margin: 20px;
+  padding: 10px;
+  border: 5px solid rebeccapurple;
+}
+
+.projects {
+  border: 7px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+
+
+.contact-me {
+  border: 2px solid red;
+  float: left;
+  margin: 20px;
+  padding: 10px;
+}
+
+.img {
+padding: 20px;
+}
+
+
+.h3 {
+  margin: 20px;
+  padding: 10px;
+}
